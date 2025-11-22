@@ -2,13 +2,6 @@
 
 A full-stack web application that enables users to discover restaurants, submit reviews with ratings, and view aggregated feedback from the community. Built with the MERN stack (MongoDB, Express, React, Node.js).
 
-![Restaurant Reviewer Screenshot](./screenshot.png)
-<!-- Add a screenshot of your app here -->
-
-## 🔗 Live Demo
-
-[View Live Application](#) <!-- Add your deployed link here -->
-
 ## ✨ Features
 
 - **User Authentication** - Secure signup and login functionality
